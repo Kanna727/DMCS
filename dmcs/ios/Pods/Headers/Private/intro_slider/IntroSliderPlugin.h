@@ -1,0 +1,5 @@
+XSym
+0074
+8489db24e81d248cbf305bb9ea813f86
+../../../../.symlinks/plugins/intro_slider/ios/Classes/IntroSliderPlugin.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
